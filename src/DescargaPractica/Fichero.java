@@ -5,7 +5,7 @@ import EjecucionDescargaPractica.IdenDescagable;
 public abstract class Fichero implements IdenDescagable {
 
 	//ATRIBUTOS
-	
+	int id2;
 	int id;
 	double tamano;
 //	String titulo; Lo dejamos comnetado para practicar que sea abstracto.
